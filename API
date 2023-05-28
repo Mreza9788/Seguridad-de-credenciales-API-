@@ -1,0 +1,5 @@
+git remote add origin https://github.com/Mreza9788/Seguridad-de-credenciales-API-.git
+
+ git branch -M main 
+
+git push -u origen principal
